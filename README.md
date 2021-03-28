@@ -1,5 +1,5 @@
 # Currency-Conversion-Microservice-in-Spring-Boot
-In this project, I have worked on a currency conversion application using various microservices in Spring Boot.
+In this project, I have worked on a currency conversion application using various microservices in Spring Boot and deployed it in Docker.
 
 # Links:
 
