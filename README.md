@@ -14,3 +14,13 @@ Currency-Exchange Microservice via API-Gateway : http://localhost:8765/currency-
 Currency-Conversion Microservice via API-Gateway : http://localhost:8765/currency-conversion/from/USD/to/INR/quantity/10
 
 Zipkin Server : http://localhost:9411/zipkin/
+
+# Docker image:
+
+Naming-Server : adityakshettri/naming-server:0.0.1-SNAPSHOT
+
+Currency-Exchange Service : adityakshettri/currency-exchange-service:0.0.1-SNAPSHOT
+
+Currency-Conversion Service : adityakshettri/currency-conversion-service:0.0.1-SNAPSHOT
+
+Api-Gateway : adityakshettri/api-gateway:0.0.1-SNAPSHOT
