@@ -15,7 +15,7 @@ Currency-Conversion Microservice via API-Gateway : http://localhost:8765/currenc
 
 Zipkin Server : http://localhost:9411/zipkin/
 
-# Docker image:
+# Docker Images:
 
 Naming-Server : adityakshettri/naming-server:0.0.1-SNAPSHOT
 
